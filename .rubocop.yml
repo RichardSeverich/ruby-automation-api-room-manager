@@ -1,0 +1,10 @@
+# Author: Daniel Cabero
+AllCops:
+  Include:
+    - '**/Rakefile'
+
+  Exclude:
+    - 'features/**/*'
+    - 'lib/**/*'
+    - 'Rakefile'
+

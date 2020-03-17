@@ -1,0 +1,28 @@
+# Author: Daniel Cabero
+source 'https://rubygems.org'
+
+gem 'pretty_face', '~> 0.10.3'
+gem 'rake'
+gem 'rest-client'
+gem 'mongo'
+gem 'cucumber'
+gem 'cucumber-core'
+gem 'cucumber-rails'
+gem 'cucumber-wire'
+gem 'rspec-core'
+gem 'rubocop'
+gem 'rspec'
+gem 'test-unit'
+gem 'faker'
+gem 'rspec-rails'
+gem 'capybara'
+gem 'cucumber-rails', :require => false
+gem 'factory_girl_rails'
+gem 'growl'
+gem 'guard-rspec'
+gem 'rb-fsevent'
+gem 'json_spec'
+gem 'json-compare'
+
+
+@gemspec
